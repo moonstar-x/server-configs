@@ -1,0 +1,43 @@
+// Base Game
+force_install_dir /home/steam/arma3
+app_update 233780
+
+// Mods
+force_install_dir /home/steam/arma3mods_casesensitive
+
+// ACE
+workshop_download_item 107410 463939057
+// CBA_A3
+workshop_download_item 107410 450814997
+// CUP ACE3 Compatibility Addon - Vehicles
+workshop_download_item 107410 621650475
+// CUP ACE3 Compatibility Addon - Weapons
+workshop_download_item 107410 549676314
+// CUP Terrains - Core	
+workshop_download_item 107410 583496184
+// CUP Terrains - CWA	
+workshop_download_item 107410 853743366	
+// CUP Terrains - Maps	
+workshop_download_item 107410 583544987	
+// CUP Units	
+workshop_download_item 107410 497661914	
+// CUP Vehicles	
+workshop_download_item 107410 541888371	
+// CUP Weapons	
+workshop_download_item 107410 497660133
+// Enhanced Movement	
+workshop_download_item 107410 333310405	
+// RHSAFRF	
+workshop_download_item 107410 843425103	
+// RHSGREF	
+workshop_download_item 107410 843593391
+// RHSSAF
+workshop_download_item 107410 843632231	
+// RHSUSAF	
+workshop_download_item 107410 843577117	
+// SharkTac User Interface	
+workshop_download_item 107410 498740884
+// TaskForce Arrowhead Radio	
+workshop_download_item 107410 620019431	
+
+quit
