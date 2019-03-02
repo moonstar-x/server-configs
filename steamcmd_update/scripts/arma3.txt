@@ -5,39 +5,54 @@ app_update 233780
 // Mods
 force_install_dir /home/steam/arma3mods_casesensitive
 
+// Mods that are more likely to time out when downloading show up twice to make sure they fully download.
+// In case there is a mod that times out both times you can run the script again.
 // ACE
-workshop_download_item 107410 463939057
+workshop_download_item 107410 463939057 validate
 // CBA_A3
-workshop_download_item 107410 450814997
+workshop_download_item 107410 450814997 validate
 // CUP ACE3 Compatibility Addon - Vehicles
-workshop_download_item 107410 621650475
+workshop_download_item 107410 621650475 validate 
 // CUP ACE3 Compatibility Addon - Weapons
-workshop_download_item 107410 549676314
+workshop_download_item 107410 549676314 validate
 // CUP Terrains - Core	
-workshop_download_item 107410 583496184
+workshop_download_item 107410 583496184 validate
+workshop_download_item 107410 583496184 validate
 // CUP Terrains - CWA	
-workshop_download_item 107410 853743366	
+workshop_download_item 107410 853743366	validate
+workshop_download_item 107410 853743366	validate
 // CUP Terrains - Maps	
-workshop_download_item 107410 583544987	
+workshop_download_item 107410 583544987	validate
+workshop_download_item 107410 583544987	validate
 // CUP Units	
-workshop_download_item 107410 497661914	
+workshop_download_item 107410 497661914	validate
+workshop_download_item 107410 497661914	validate
 // CUP Vehicles	
-workshop_download_item 107410 541888371	
+workshop_download_item 107410 541888371	validate
+workshop_download_item 107410 541888371	validate
 // CUP Weapons	
-workshop_download_item 107410 497660133
+workshop_download_item 107410 497660133 validate
+workshop_download_item 107410 497660133 validate
 // Enhanced Movement	
-workshop_download_item 107410 333310405	
+workshop_download_item 107410 333310405	validate
+workshop_download_item 107410 333310405	validate
 // RHSAFRF	
-workshop_download_item 107410 843425103	
+workshop_download_item 107410 843425103	validate
+workshop_download_item 107410 843425103	validate
 // RHSGREF	
-workshop_download_item 107410 843593391
+workshop_download_item 107410 843593391 validate
+workshop_download_item 107410 843593391 validate
 // RHSSAF
-workshop_download_item 107410 843632231	
+workshop_download_item 107410 843632231	validate
+workshop_download_item 107410 843632231	validate
 // RHSUSAF	
-workshop_download_item 107410 843577117	
+workshop_download_item 107410 843577117	validate
+workshop_download_item 107410 843577117	validate
 // SharkTac User Interface	
-workshop_download_item 107410 498740884
+workshop_download_item 107410 498740884 validate
 // TaskForce Arrowhead Radio	
-workshop_download_item 107410 620019431	
+workshop_download_item 107410 620019431	validate
+// Zombies and Demons
+workshop_download_item 107410 501966277 validate
 
 quit
