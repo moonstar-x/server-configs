@@ -5,8 +5,6 @@ app_update 233780
 // Mods
 force_install_dir /home/steam/arma3mods_casesensitive
 
-// Mods that are more likely to time out when downloading show up twice to make sure they fully download.
-// In case there is a mod that times out both times you can run the script again.
 // ACE
 workshop_download_item 107410 463939057 validate
 // CBA_A3
