@@ -1,9 +1,9 @@
 // Base Game
-force_install_dir /home/steam/arma3
+force_install_dir /home/arma/arma3
 app_update 233780
 
 // Mods
-force_install_dir /home/steam/arma3mods_casesensitive
+force_install_dir /home/arma/arma3mods_ciopfs
 
 // ACE
 workshop_download_item 107410 463939057 validate
