@@ -1,3 +1,0 @@
-force_install_dir /home/steam/nmrih
-app_update 317670
-quit

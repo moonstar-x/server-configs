@@ -1,3 +1,0 @@
-force_install_dir /home/steam/valheim
-app_update 896660
-quit

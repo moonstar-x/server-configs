@@ -1,3 +1,0 @@
-force_install_dir /home/steam/arma3vanilla
-app_update 233780 validate
-quit

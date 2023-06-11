@@ -1,3 +1,0 @@
-force_install_dir /home/steam/l4d2
-app_update 222860
-quit

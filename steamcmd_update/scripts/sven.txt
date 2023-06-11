@@ -1,3 +1,0 @@
-force_install_dir /home/steam/sven
-app_update 276060
-quit

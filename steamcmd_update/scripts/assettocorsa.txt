@@ -1,4 +1,0 @@
-@sSteamCmdForcePlatformType windows
-force_install_dir /home/steam/assettocorsa
-app_update 302550
-quit
